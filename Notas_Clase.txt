@@ -1,0 +1,6 @@
+CLASES PIP
+
+Notas para las clases del curso de PIP y entornos virtuales
+
+Usando gitignore:
+    https://www.toptal.com/developers/gitignore/
